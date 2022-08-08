@@ -70,7 +70,7 @@
   
   /********** Large devices only **********/
   @media (min-width: 992px) {
-    .col-lg-4 {
+    .gor {
         float: left;
       width: 33.33%;
     }
